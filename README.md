@@ -1,1 +1,1 @@
-# AmdPj
+Second mini team project
