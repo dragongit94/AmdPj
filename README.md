@@ -1,1 +1,2 @@
-Second mini team project
+MVC mini team project
+
